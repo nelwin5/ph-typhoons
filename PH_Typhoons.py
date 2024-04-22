@@ -16,9 +16,9 @@ if "model" not in st.session_state:
 def app():
     st.subheader('RNN-LSTM Based Typhoon Prediction in the Philippines')
     
-    text = """Prof. Louie F. Cervantes, M. Eng. (Information Engineering)
-    \nCCS 229 - Intelligent Systems
+    text = """Nelwin Serra
     *Department of Computer Science
+    *BSCS 3B
     *College of Information and Communications Technology
     *##West Visayas State University##"""
     st.text(text)

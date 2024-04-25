@@ -17,7 +17,6 @@ def app():
     st.subheader('RNN-LSTM Based Typhoon Prediction in the Philippines')
     
     text = """Nelwin Serra
-    *Department of Computer Science
     *BSCS 3B
     *College of Information and Communications Technology
     *##West Visayas State University##"""
